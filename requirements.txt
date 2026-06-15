@@ -1,0 +1,8 @@
+flask
+flask-cors
+flask-socketio==5.3.6
+gevent
+gevent-websocket
+gunicorn
+numpy
+requests
